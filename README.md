@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Palle Technologies](http://www.techpalle.com/)
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Python Full Stack Development Internship**
 
 - 👯 I’m looking to collaborate on [Python Developer](Any Location)
 
