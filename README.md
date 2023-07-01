@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthukumar-arivu&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-arivu" /> </p>
 
-- 🔭 I’m currently working on [Palle Technologies](Bangalore)
+- 🔭 I’m currently working on [Palle Technologies](http://www.techpalle.com/)
 
 - 🌱 I’m currently learning **AWS**
 
