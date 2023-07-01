@@ -1,5 +1,5 @@
 # The-Name-is-Muthukumar
-<img src="![20230627_010115](https://github.com/Muthukumar-Arivu/The-Name-is-Muthukumar/assets/61575179/04ed5a63-ba3c-412e-b150-8876058adfda)" width="1050" height="400">
+<img src="https://github.com/Muthukumar-Arivu/The-Name-is-Muthukumar/blob/main/20230627_010115.jpg" width="1050" height="400">
 <h1 align="center">Hi 👋, I'm Muthukumar Arivazhagan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
