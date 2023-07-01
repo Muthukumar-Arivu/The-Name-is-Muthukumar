@@ -2,6 +2,7 @@
 <img src="https://github.com/Muthukumar-Arivu/The-Name-is-Muthukumar/blob/main/20230627_010115.jpg" width="1050" height="400">
 <h1 align="center">Hi 👋, I'm Muthukumar Arivazhagan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
+<img align="right" alt="Coding" width="400" src="coding readme.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muthukumar-arivu&label=Profile%20views&color=0e75b6&style=flat" alt="muthukumar-arivu" /> </p>
 
